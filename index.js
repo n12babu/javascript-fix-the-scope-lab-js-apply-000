@@ -5,6 +5,9 @@ function myAnimal() {
   return animal
   
 }
+myAnimal("cat")
+
+
 
 function yourAnimal() {
   // How can we make sure that this function
