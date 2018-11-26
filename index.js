@@ -3,9 +3,9 @@ var animal = 'dog'
 
 function myAnimal() {
   return animal
-  
+
 }
-myAnimal("cat")
+myAnimal('cat')
 
 
 
